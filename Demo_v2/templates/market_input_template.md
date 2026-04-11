@@ -1,0 +1,23 @@
+# New Market Input
+
+- Asset:
+- Price:
+- Trend:
+- Structure:
+- OI:
+- Funding:
+- TRL:
+- CVD:
+- Spot volume:
+- Perp volume:
+- Orderbook imbalance:
+- 1D heatmap:
+- 3D heatmap:
+- 1W heatmap:
+- 1M heatmap:
+- Main liquidity above:
+- Main liquidity below:
+- Closest liquidity:
+- News:
+- Session:
+- Extra notes:
