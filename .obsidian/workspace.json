@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d57cb819fab2740",
+            "id": "b46e120d233de24d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,8 +176,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d57cb819fab2740",
+  "active": "b46e120d233de24d",
   "lastOpenFiles": [
+    "Demo_v2/concepts/liquidation-heatmap.md",
+    "Demo_v2/CORE_RULES.md",
     "Demo_v2/START_HERE.md",
     "Demo_v2/QUICK_START.md",
     "Demo_v2/setups/2026-04-10-btc-setup-03.md",

@@ -30,6 +30,8 @@ Full map of the vault. Grouped by type and by tag.
 - [[setups/2026-04-09-btc-setup-01]] — BTC 71k, sweep lower thesis
 - [[setups/2026-04-10-btc-setup-02]] — BTC 70k, demand overlay hold
 - [[setups/2026-04-10-btc-setup-03]] — BTC 69.5k, low TRL + high OI + sweep confirmed ✓
+- [[setups/2026-04-20-btc-setup-04]] — BTC, high TRL delta + low OI delta downside risk
+- [[setups/2026-04-20-btc-setup-05]] — BTC, 4th range high fakeout + short re-accumulation
 
 ### By tag
 
@@ -40,16 +42,38 @@ Full map of the vault. Grouped by type and by tag.
 #### #liquidation-heatmap
 - [[setups/2026-04-09-btc-setup-01]]
 - [[setups/2026-04-10-btc-setup-03]]
+- [[setups/2026-04-20-btc-setup-05]]
 
 #### #open-interest
 - [[setups/2026-04-09-btc-setup-01]]
 - [[setups/2026-04-10-btc-setup-03]]
+- [[setups/2026-04-20-btc-setup-04]]
 
 #### #demand-overlay
 - [[setups/2026-04-10-btc-setup-02]]
 
 #### #trl
 - [[setups/2026-04-10-btc-setup-03]]
+- [[setups/2026-04-20-btc-setup-04]]
+
+#### #retail-longs
+- [[setups/2026-04-20-btc-setup-04]]
+
+#### #downside-risk
+- [[setups/2026-04-20-btc-setup-04]]
+- [[setups/2026-04-20-btc-setup-05]]
+
+#### #range-high
+- [[setups/2026-04-20-btc-setup-05]]
+
+#### #fakeout
+- [[setups/2026-04-20-btc-setup-05]]
+
+#### #short-reaccumulation
+- [[setups/2026-04-20-btc-setup-05]]
+
+#### #liquidity
+- [[setups/2026-04-20-btc-setup-05]]
 
 ---
 
@@ -65,6 +89,7 @@ Full map of the vault. Grouped by type and by tag.
 - [[concepts/funding-rate]]
 - [[concepts/cvd]]
 - [[concepts/liquidation-heatmap]]
+- [[concepts/cme-gap]]
 
 ---
 
