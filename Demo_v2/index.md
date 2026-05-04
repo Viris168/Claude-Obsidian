@@ -32,6 +32,7 @@ Full map of the vault. Grouped by type and by tag.
 - [[setups/2026-04-10-btc-setup-03]] — BTC 69.5k, low TRL + high OI + sweep confirmed ✓
 - [[setups/2026-04-20-btc-setup-04]] — BTC, high TRL delta + low OI delta downside risk
 - [[setups/2026-04-20-btc-setup-05]] — BTC, 4th range high fakeout + short re-accumulation
+- [[setups/2026-04-28-btc-setup-06]] — BTC, OI higher lows leg-up candidate
 
 ### By tag
 
@@ -48,6 +49,7 @@ Full map of the vault. Grouped by type and by tag.
 - [[setups/2026-04-09-btc-setup-01]]
 - [[setups/2026-04-10-btc-setup-03]]
 - [[setups/2026-04-20-btc-setup-04]]
+- [[setups/2026-04-28-btc-setup-06]]
 
 #### #demand-overlay
 - [[setups/2026-04-10-btc-setup-02]]
@@ -75,6 +77,15 @@ Full map of the vault. Grouped by type and by tag.
 #### #liquidity
 - [[setups/2026-04-20-btc-setup-05]]
 
+#### #oi-higher-lows
+- [[setups/2026-04-28-btc-setup-06]]
+
+#### #pattern-candidate
+- [[setups/2026-04-28-btc-setup-06]]
+
+#### #bullish-continuation
+- [[setups/2026-04-28-btc-setup-06]]
+
 ---
 
 ## Patterns
@@ -90,6 +101,7 @@ Full map of the vault. Grouped by type and by tag.
 - [[concepts/cvd]]
 - [[concepts/liquidation-heatmap]]
 - [[concepts/cme-gap]]
+- [[concepts/cvd-oi-absorption-exhaustion]]
 
 ---
 
